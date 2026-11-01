@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform_inventory.ini
+*.tfplan
+crash.log
+site/
